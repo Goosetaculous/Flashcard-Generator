@@ -3,7 +3,6 @@
  */
 (()=>{
 
-    const inquirer = require('inquirer') //Make it fancy to ask a question
     const questions       = require('./question')
     const basicCard =  require('./BasicCard')
     const clozedCard = require('./ClozedCard')
